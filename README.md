@@ -23,57 +23,50 @@ configuration, and report filters.
 
 ## Dashboard Preview
 
-The Power BI report contains seven pages. 
+### 1. Executive Overview
 
+![Executive Overview Dashboard](docs/Images/Summary.png)
 
+High-level KPIs and order-level details, with filters for city, category, store, customer, and date.
 
-### 1.Executive Overview
+### 2. Sales & Revenue
 
-!\[Executive Overview dashboard](docs/Images/Summary.png)
-
-High-level KPIs and order-level detail, with filters for city, category,
-store, customer, and date.
-
-### 2\. Sales \& Revenue
-
-!\[Sales and Revenue dashboard](docs/Images/Sales & Revenue.png)
+![Sales and Revenue Dashboard](docs/Images/Sales%20%26%20Revenue.png)
 
 Revenue trends and comparisons across categories, stores, and products.
 
-### 3\. Product Analysis
+### 3. Product Analysis
 
-!\[Product Analysis dashboard](docs/Images/Product Analysis.png)
+![Product Analysis Dashboard](docs/Images/Product%20Analysis.png)
 
-Product, brand, and category performance, including top-performing
-items.
+Product, brand, and category performance, including top-performing items.
 
-### 4\. Store Performance
+### 4. Store Performance
 
-!\[Store Performance dashboard](docs/Images/Store Performance.png)
+![Store Performance Dashboard](docs/Images/Store%20Performance.png)
 
-Store rankings by revenue and order volume, regional revenue, and
-store related KPIs.
+Store rankings by revenue and order volume, regional revenue, and store-related KPIs.
 
-### 5\. Customer Analysis
+### 5. Customer Analysis
 
-!\[Customer Analysis dashboard](docs/Images/Customer Analysis.png)
+![Customer Analysis Dashboard](docs/Images/Customer%20Analysis.png)
 
-Customer revenue, order activity, city-level customer summaries, and
-recent customer orders.
+Customer revenue, order activity, city-level customer summaries, and recent customer orders.
 
-### 6\. Supplier Analysis
+### 6. Supplier Analysis
 
-!\[Supplier Analysis dashboard](docs/Images/Supplier Analysis.png)
+![Supplier Analysis Dashboard](docs/Images/Supplier%20Analysis.png)
 
-Supplier rankings, supplier related product metrics, and shipment status
-distribution.
+Supplier rankings, supplier-related metrics, and shipment-status distribution.
 
-### 7\. Returns \& Promotions
+### 7. Returns & Promotions
 
-!\[Returns and Promotions](docs/Images/Returns & Promotion.png)
+![Returns and Promotions Dashboard](docs/Images/Returns%20%26%20Promotion.png)
 
-Returns, refunds, promotion information, return rate metrics, and
-category-level return patterns.
+Returns, refunds, promotion information, return-rate metrics, and category-level return patterns.
+
+---
+
 
 Tools Used 
 
