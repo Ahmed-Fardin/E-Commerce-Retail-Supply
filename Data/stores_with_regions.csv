@@ -1,0 +1,101 @@
+store_id,city,store_name,region_id,region_name
+1,Pune,Pune Koregaon Park,3,Pune
+2,Pune,Pune Hinjawadi,3,Pune
+3,Delhi,Delhi Rohini,1,Delhi
+4,Mumbai,Mumbai Thane,2,Mumbai
+5,Mumbai,Mumbai Borivali,2,Mumbai
+6,Mumbai,Mumbai Lower Parel,2,Mumbai
+7,Delhi,Delhi Lajpat Nagar,1,Delhi
+8,Bangalore,Bangalore Malleshwaram,4,Bangalore
+9,Delhi,Delhi Pitampura,1,Delhi
+10,Bangalore,Bangalore Yelahanka,4,Bangalore
+11,Delhi,Delhi Connaught Place,1,Delhi
+12,Pune,Pune Hinjawadi Branch 2,3,Pune
+13,Bangalore,Bangalore Koramangala,4,Bangalore
+14,Mumbai,Mumbai Thane Branch 2,2,Mumbai
+15,Pune,Pune Kothrud,3,Pune
+16,Pune,Pune Wakad,3,Pune
+17,Delhi,Delhi Lajpat Nagar Branch 2,1,Delhi
+18,Bangalore,Bangalore Malleshwaram Branch 2,4,Bangalore
+19,Mumbai,Mumbai Malad,2,Mumbai
+20,Mumbai,Mumbai Vashi,2,Mumbai
+21,Delhi,Delhi Connaught Place Branch 2,1,Delhi
+22,Mumbai,Mumbai Bandra,2,Mumbai
+23,Pune,Pune Viman Nagar,3,Pune
+24,Pune,Pune Baner,3,Pune
+25,Delhi,Delhi Vasant Kunj,1,Delhi
+26,Pune,Pune Wakad Branch 2,3,Pune
+27,Bangalore,Bangalore Marathahalli,4,Bangalore
+28,Mumbai,Mumbai Worli,2,Mumbai
+29,Bangalore,Bangalore Hebbal,4,Bangalore
+30,Pune,Pune Shivajinagar,3,Pune
+31,Bangalore,Bangalore Indiranagar,4,Bangalore
+32,Mumbai,Mumbai Bandra Branch 2,2,Mumbai
+33,Pune,Pune Viman Nagar Branch 2,3,Pune
+34,Mumbai,Mumbai Thane Branch 3,2,Mumbai
+35,Bangalore,Bangalore Electronic City,4,Bangalore
+36,Delhi,Delhi Karol Bagh,1,Delhi
+37,Mumbai,Mumbai Goregaon,2,Mumbai
+38,Mumbai,Mumbai Worli Branch 2,2,Mumbai
+39,Pune,Pune Magarpatta,3,Pune
+40,Bangalore,Bangalore Yelahanka Branch 2,4,Bangalore
+41,Pune,Pune Koregaon Park Branch 2,3,Pune
+42,Mumbai,Mumbai Bandra Branch 3,2,Mumbai
+43,Pune,Pune Viman Nagar Branch 3,3,Pune
+44,Delhi,Delhi Dwarka,1,Delhi
+45,Delhi,Delhi Vasant Kunj Branch 2,1,Delhi
+46,Delhi,Delhi Karol Bagh Branch 2,1,Delhi
+47,Pune,Pune Aundh,3,Pune
+48,Mumbai,Mumbai Worli Branch 3,2,Mumbai
+49,Pune,Pune Magarpatta Branch 2,3,Pune
+50,Pune,Pune Shivajinagar Branch 2,3,Pune
+51,Bangalore,Bangalore Indiranagar Branch 2,4,Bangalore
+52,Mumbai,Mumbai Bandra Branch 4,2,Mumbai
+53,Pune,Pune Viman Nagar Branch 4,3,Pune
+54,Mumbai,Mumbai Thane Branch 4,2,Mumbai
+55,Mumbai,Mumbai Borivali Branch 2,2,Mumbai
+56,Delhi,Delhi Karol Bagh Branch 3,1,Delhi
+57,Mumbai,Mumbai Goregaon Branch 2,2,Mumbai
+58,Bangalore,Bangalore Malleshwaram Branch 3,4,Bangalore
+59,Bangalore,Bangalore Hebbal Branch 2,4,Bangalore
+60,Bangalore,Bangalore Yelahanka Branch 3,4,Bangalore
+61,Pune,Pune Koregaon Park Branch 3,3,Pune
+62,Bangalore,Bangalore Whitefield,4,Bangalore
+63,Delhi,Delhi Rohini Branch 2,1,Delhi
+64,Bangalore,Bangalore Jayanagar,4,Bangalore
+65,Pune,Pune Kothrud Branch 2,3,Pune
+66,Mumbai,Mumbai Lower Parel Branch 2,2,Mumbai
+67,Pune,Pune Aundh Branch 2,3,Pune
+68,Mumbai,Mumbai Worli Branch 4,2,Mumbai
+69,Delhi,Delhi Pitampura Branch 2,1,Delhi
+70,Delhi,Delhi Rajouri Garden,1,Delhi
+71,Delhi,Delhi Connaught Place Branch 3,1,Delhi
+72,Pune,Pune Hinjawadi Branch 3,3,Pune
+73,Bangalore,Bangalore Koramangala Branch 2,4,Bangalore
+74,Pune,Pune Baner Branch 2,3,Pune
+75,Mumbai,Mumbai Borivali Branch 3,2,Mumbai
+76,Delhi,Delhi Karol Bagh Branch 4,1,Delhi
+77,Delhi,Delhi Lajpat Nagar Branch 3,1,Delhi
+78,Pune,Pune Hadapsar,3,Pune
+79,Bangalore,Bangalore Hebbal Branch 3,4,Bangalore
+80,Bangalore,Bangalore Yelahanka Branch 4,4,Bangalore
+81,Delhi,Delhi Connaught Place Branch 4,1,Delhi
+82,Mumbai,Mumbai Bandra Branch 5,2,Mumbai
+83,Bangalore,Bangalore Koramangala Branch 3,4,Bangalore
+84,Mumbai,Mumbai Thane Branch 5,2,Mumbai
+85,Mumbai,Mumbai Borivali Branch 4,2,Mumbai
+86,Mumbai,Mumbai Lower Parel Branch 3,2,Mumbai
+87,Mumbai,Mumbai Goregaon Branch 3,2,Mumbai
+88,Bangalore,Bangalore Malleshwaram Branch 4,4,Bangalore
+89,Mumbai,Mumbai Malad Branch 2,2,Mumbai
+90,Mumbai,Mumbai Vashi Branch 2,2,Mumbai
+91,Pune,Pune Koregaon Park Branch 4,3,Pune
+92,Pune,Pune Hinjawadi Branch 4,3,Pune
+93,Delhi,Delhi Rohini Branch 3,1,Delhi
+94,Pune,Pune Baner Branch 3,3,Pune
+95,Mumbai,Mumbai Borivali Branch 5,2,Mumbai
+96,Pune,Pune Wakad Branch 3,3,Pune
+97,Mumbai,Mumbai Goregaon Branch 4,2,Mumbai
+98,Mumbai,Mumbai Worli Branch 5,2,Mumbai
+99,Bangalore,Bangalore Hebbal Branch 4,4,Bangalore
+100,Delhi,Delhi Rajouri Garden Branch 2,1,Delhi
