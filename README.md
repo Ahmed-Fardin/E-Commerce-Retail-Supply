@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Retail Supply Chain 
 
 An end-to-end retail analytics project built with **Python, PostgreSQL,
@@ -180,3 +181,6 @@ machine.
 
 ## 
 
+=======
+# E-Commerce-Retail-Supply
+>>>>>>> 9b2cd1224ae41b621237bc39c527e685ab05a839
