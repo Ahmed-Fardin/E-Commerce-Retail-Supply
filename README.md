@@ -36,52 +36,46 @@ store, customer, and date.
 
 ### 2\. Sales \& Revenue
 
-!\[Sales and Revenue dashboard](docs/Images/Sales%20%26%20Revenue.png)
+!\[Sales and Revenue dashboard](docs/Images/Sales & Revenue.png)
 
 Revenue trends and comparisons across categories, stores, and products.
 
 ### 3\. Product Analysis
 
-!\[Product Analysis dashboard](docs/Images/Product%20Analysis.png)
+!\[Product Analysis dashboard](docs/Images/Product Analysis.png)
 
 Product, brand, and category performance, including top-performing
 items.
 
 ### 4\. Store Performance
 
-!\[Store Performance dashboard](docs/Images/Store%20Performance.png)
+!\[Store Performance dashboard](docs/Images/Store Performance.png)
 
 Store rankings by revenue and order volume, regional revenue, and
 store related KPIs.
 
 ### 5\. Customer Analysis
 
-!\[Customer Analysis dashboard](docs/Images/Customer%20Analysis.png)
+!\[Customer Analysis dashboard](docs/Images/Customer Analysis.png)
 
 Customer revenue, order activity, city-level customer summaries, and
 recent customer orders.
 
 ### 6\. Supplier Analysis
 
-!\[Supplier Analysis dashboard](docs/Images/Supplier%20Analysis.png)
+!\[Supplier Analysis dashboard](docs/Images/Supplier Analysis.png)
 
 Supplier rankings, supplier related product metrics, and shipment status
 distribution.
 
 ### 7\. Returns \& Promotions
 
-!\[Returns and Promotions](docs/Images/Returns%20%26%20Promotion.png)
+!\[Returns and Promotions](docs/Images/Returns & Promotion.png)
 
 Returns, refunds, promotion information, return rate metrics, and
 category-level return patterns.
 
-\---
-
-\---
-
-Tool                                Use
-
-\---
+Tools Used 
 
 Python                              Data generation, enrichment, and
 validation scripts
@@ -178,8 +172,3 @@ region information, and fixing store names. Review each script's input
 paths, output paths, and dependencies before running it on another
 machine.
 
-## 
-
-=======
-# E-Commerce-Retail-Supply
->>>>>>> 9b2cd1224ae41b621237bc39c527e685ab05a839
