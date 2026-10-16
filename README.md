@@ -138,30 +138,5 @@ filters?
 * Which categories have the most return records?
 * How do promotion attributes relate to orders and returns?
 
-## Data Model
 
-The model links the core business entities:
-
-* `customers` → `orders`
-* `stores` → `orders`
-* `orders` → `order\_items`
-* `products` → `order\_items`
-* `categories` → `products`
-* `suppliers` → `products`
-* `promotions` → `orders`
-* `orders` → `payments`
-* `orders` → `shipments`
-* `order\_items` → `returns`
-
-The Power BI report also uses a date table for date-based filtering and
-time analysis. Relationship activity, cardinality, and filter direction
-should be checked when adapting the model to another environment.
-
-## Python Scripts
-
-The project includes scripts used during data preparation and
-enrichment, including scripts for generating product names, assigning
-region information, and fixing store names. Review each script's input
-paths, output paths, and dependencies before running it on another
-machine.
 
