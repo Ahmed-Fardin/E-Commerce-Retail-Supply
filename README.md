@@ -27,7 +27,7 @@ configuration, and report filters.
 
 ![Executive Overview Dashboard](docs/Images/Summary.png)
 
-High-level KPIs and order-level details, with filters for city, category, store, customer, and date.
+KPIs and order details, with filters for city, category, store, customer, and date.
 
 ### 2. Sales & Revenue
 
@@ -39,38 +39,38 @@ Revenue trends and comparisons across categories, stores, and products.
 
 ![Product Analysis Dashboard](docs/Images/Product%20Analysis.png)
 
-Product, brand, and category performance, including top-performing items.
+Product, brand, and category performance, including top performing items.
 
 ### 4. Store Performance
 
 ![Store Performance Dashboard](docs/Images/Store%20Performance.png)
 
-Store rankings by revenue and order volume, regional revenue, and store-related KPIs.
+Store rankings by revenue and order volume, regional revenue, and store related KPIs.
 
 ### 5. Customer Analysis
 
 ![Customer Analysis Dashboard](docs/Images/Customer%20Analysis.png)
 
-Customer revenue, order activity, city-level customer summaries, and recent customer orders.
+Customer revenue, order activity, city level customer summaries, and recent customer orders.
 
 ### 6. Supplier Analysis
 
 ![Supplier Analysis Dashboard](docs/Images/Supplier%20Analysis.png)
 
-Supplier rankings, supplier-related metrics, and shipment-status distribution.
+Supplier rankings, supplier related metrics, and shipment status distribution.
 
 ### 7. Returns & Promotions
 
 ![Returns and Promotions Dashboard](docs/Images/Returns%20%26%20Promotion.png)
 
-Returns, refunds, promotion information, return-rate metrics, and category-level return patterns.
+Returns, refunds, promotion information, return rate metrics, and category level return patterns.
 
 ---
 
 
 Tools Used 
 
-Python                              Data generation, enrichment, and
+Python                              Data generation and
 validation scripts
 
 PostgreSQL                          Relational data storage and SQL
@@ -88,7 +88,7 @@ organization
 
 * **Order date range:** 1 January 2020 -- 1 January 2024
 * **Customer/store cities:** Bangalore, Delhi, Mumbai, and Pune
-* **Supplier countries represented:** India, China, and the USA
+* **Supplier countries represented:** India, China, and USA
 * **Database:** PostgreSQL
 
 Row counts are approximate and may change if the data is regenerated or
