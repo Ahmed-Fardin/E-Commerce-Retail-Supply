@@ -105,6 +105,6 @@ Store Performance: Delhi Pitampura ranked highest among the displayed stores, ge
 
 Returns Analysis: The dataset contained 30,000 return records associated with 29,251 distinct order items. The calculated returned-item-record rate was 4.88% of all order-item records.
 
-Refund Analysis: Recorded refunds totalled 75.96 million. This figure should be interpreted alongside the dataset's refund definitions and validated before drawing conclusions about the financial impact of returns.
+Refund Analysis: Recorded refunds totalled 75.96 million. 
 
 
