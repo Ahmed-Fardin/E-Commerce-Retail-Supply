@@ -94,49 +94,17 @@ organization
 Row counts are approximate and may change if the data is regenerated or
 edited.
 
-## Dashboard Pages and Business Questions
 
-### Overview
+### Key SQL Analysis Findings
 
-* What are the overall revenue, order, customer, product, supplier,
-and unit metrics?
-* How do order-level details change under the selected filters?
+Overall Business Performance: The dataset recorded 382.77 million in revenue across 259,233 orders, with 49,751 distinct customers and 1.5 million units sold. The average order value was 1,476.56.
 
-### Sales \& Revenue
+Top-Selling Products by Revenue: Gardena Garden Gloves Model 745 ranked first among the displayed products, generating 674,395 in revenue from 236 units sold.
 
-* How does revenue change over time?
-* Which categories, stores, and products contribute the most revenue?
+Store Performance: Delhi Pitampura ranked highest among the displayed stores, generating 40.09 million in revenue from 2,671 orders. The leading stores showed broadly similar revenue and order volumes.
 
-### Product Analysis
+Returns Analysis: The dataset contained 30,000 return records associated with 29,251 distinct order items. The calculated returned-item-record rate was 4.88% of all order-item records.
 
-* Which products and brands rank highest by revenue?
-* Which product categories perform strongly?
-
-### Store Performance
-
-* Which stores rank highest by revenue and order volume?
-* How does revenue vary by city or reporting region?
-* How many stores and employees are represented?
-
-### Customer Analysis
-
-* Which customers generate the most revenue?
-* Which customers place the most orders?
-* How do customer counts and order activity vary by city?
-* What do recent customer orders look like?
-
-### Supplier Analysis
-
-* Which suppliers rank highest by revenue?
-* How are shipment statuses distributed?
-* How do supplier-related metrics vary across cities and selected
-filters?
-
-### Returns \& Promotions
-
-* How are return records and refunds distributed?
-* Which categories have the most return records?
-* How do promotion attributes relate to orders and returns?
-
+Refund Analysis: Recorded refunds totalled 75.96 million. This figure should be interpreted alongside the dataset's refund definitions and validated before drawing conclusions about the financial impact of returns.
 
 
